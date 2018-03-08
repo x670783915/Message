@@ -1,12 +1,9 @@
-# Message
+# Message (信)
 A game oriented to algorithmic Education
 
 
 ****
-	
-|Author|比如说|
-|---|---
-|E-mail|1804307732@qq.com
 
-
-****
+|版本|下载|
+|----|-----|
+|`第一次Demo可玩版本`|[下载](/A.apk)|
